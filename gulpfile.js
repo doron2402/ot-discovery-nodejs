@@ -2,7 +2,7 @@
 'use strict';
 
 //mocha required options*****************
-require('babel/register');
+
 require('should');
 //***************************************
 
